@@ -1,4 +1,4 @@
-# Awesome Swarm Drones [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Swarm Drones [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -60,9 +60,9 @@ Swarm drones refer to multiple autonomous UAVs (Unmanned Aerial Vehicles) operat
 
 ## Related Awesome Lists
 
-- **[Awesome Open-Source Drone Firmware](https://github.com/awesomelistsio/awesome-open-source-drone-firmware)**
-- **[Awesome Flight Controller Software](https://github.com/awesomelistsio/awesome-flight-controller-software)**
-- **[Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics)**
+- **[Awesome Open-Source Drone Firmware](https://github.com/brandonhimpfen/awesome-open-source-drone-firmware)**
+- **[Awesome Flight Controller Software](https://github.com/brandonhimpfen/awesome-flight-controller-software)**
+- **[Awesome Robotics](https://github.com/brandonhimpfen/awesome-robotics)**
   
 ## Contribute
 
